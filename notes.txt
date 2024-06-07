@@ -1,0 +1,11 @@
+{"_id":{"$oid":"665d1cac8d96bc5c08b242ce"}
+"name": "Chris Krieder",
+"number": 20,
+"position": "Left Wing"
+}
+
+{"_id":{"$oid":"665dd2429c0860ddd65bfcb7"}
+"name": "Chris Krieder",
+"number": 20,
+"position": "Left Wing"
+}
